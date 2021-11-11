@@ -1,17 +1,17 @@
 /* Base */
 body {
   line-height: 1.7;
-  color: #4d4d4d;
+  color: #000000;
   font-weight: 300;
   font-size: 1rem; }
 
 ::-moz-selection {
   background: #000;
-  color: #000000; }
+  color: #fff; }
 
 ::selection {
   background: #000;
-  color: #000000; }
+  color: #fff; }
 
 a {
   -webkit-transition: .3s all ease;
